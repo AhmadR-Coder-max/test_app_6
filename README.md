@@ -1,3 +1,3 @@
 # README
 
-Version control with git.
+Complete Ruby on Rails Developer Course.
